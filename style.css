@@ -1,0 +1,18 @@
+*{
+    color:grey;
+    background-color: rgb(255, 249, 240);
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    font-weight: 1200;
+    font-size: 50px;
+}
+.link,
+.para {
+    color: darkgreen;
+    font-family: "Times New Roman" serif;
+    font-size: 18px;
+    text-align: justify;
+}
