@@ -1,6 +1,14 @@
 *{
     color:grey;
     background-color: rgb(255, 249, 240);
+    margin: 10px;
+    border: 0px;
+    padding: 0px;
+}
+
+div{
+    padding-left: 20px;
+    padding: 40px;
 }
 
 h1{
@@ -8,11 +16,14 @@ h1{
     color: brown;
     font-weight: 1200;
     font-size: 50px;
+    text-align: center;
 }
+
 .link,
 .para {
     color: darkgreen;
     font-family: "Times New Roman" serif;
     font-size: 18px;
     text-align: justify;
-}
+} 
+
