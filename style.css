@@ -1,14 +1,12 @@
 *{
     color:grey;
     background-color: rgb(255, 249, 240);
-    margin: 10px;
-    border: 0px;
-    padding: 0px;
+    outline: red;
+    
 }
 
 div{
-    padding-left: 20px;
-    padding: 40px;
+    padding: 20px;
 }
 
 h1{
@@ -17,6 +15,9 @@ h1{
     font-weight: 1200;
     font-size: 50px;
     text-align: center;
+    margin: 0%;
+    padding: 0px;
+    border: 0px;
 }
 
 .link,
